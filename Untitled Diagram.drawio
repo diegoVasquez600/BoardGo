@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T20:32:14.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="N4AEEqjCBD1Ck1d1sP-g" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T21:49:40.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="M7KWHvrbb7B-DYO79-mf" version="22.0.4" type="github">
   <diagram id="53IQXVl9icCSp_Kw3Ib1" name="Page-1">
-    <mxGraphModel dx="1351" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,27 +190,12 @@
         <mxCell id="fSnZ5vnYTslC5NarKmr_-8" value="&lt;span style=&quot;text-align: center; font-size: 11px;&quot;&gt;Each tag represents a production release.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=11;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="94.5" y="158" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="fSnZ5vnYTslC5NarKmr_-11" value="Example Git Branching Diagrams" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="fSnZ5vnYTslC5NarKmr_-11" value="BoardGo Git Branching Strategy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="281" y="20" width="538" height="40" as="geometry" />
         </mxCell>
-        <UserObject label="Example diagram for a workflow similar to &quot;Git-flow&quot; :" link="https://nvie.com/posts/a-successful-git-branching-model/" id="9hBKPDzoitwpIBdzFDQ7-2">
-          <mxCell style="text;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-            <mxGeometry x="82.25" y="90" width="427.75" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;a href=&quot;https://nvie.com/posts/a-successful-git-branching-model/&quot;&gt;https://nvie.com/posts/a-successful-git-branching-model/&lt;/a&gt;" link="https://nvie.com/posts/a-successful-git-branching-model/" id="9hBKPDzoitwpIBdzFDQ7-3">
-          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="115" y="115" width="355" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Example diagram for a workflow with a simpler branching model:" link="https://nvie.com/posts/a-successful-git-branching-model/" id="9hBKPDzoitwpIBdzFDQ7-6">
           <mxCell style="text;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" parent="1" vertex="1">
             <mxGeometry x="80" y="580" width="542.25" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="See:" link="https://nvie.com/posts/a-successful-git-branching-model/" id="9hBKPDzoitwpIBdzFDQ7-7">
-          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="82.25" y="115" width="32.75" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;a href=&quot;https://gist.github.com/jbenet/ee6c9ac48068889b0912&quot;&gt;https://gist.github.com/jbenet/ee6c9ac48068889b0912&lt;/a&gt;" link="https://gist.github.com/jbenet/ee6c9ac48068889b0912" id="9hBKPDzoitwpIBdzFDQ7-8">
@@ -229,7 +214,7 @@
             <mxPoint x="877.25" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9hBKPDzoitwpIBdzFDQ7-15" value="&lt;span style=&quot;text-align: center&quot;&gt;Feel free to add notes here about the process of merging into the release branch.&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=12;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="9hBKPDzoitwpIBdzFDQ7-15" value="&lt;span style=&quot;text-align: center&quot;&gt;Only mege to&amp;nbsp; main branch the stble feature and only fom quality branch&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=12;fontStyle=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="852.25" y="281" width="167.75" height="81" as="geometry" />
         </mxCell>
         <mxCell id="9hBKPDzoitwpIBdzFDQ7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;endArrow=none;endFill=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9hBKPDzoitwpIBdzFDQ7-16" target="uWUnNED6HEl2aK5fdaIb-11" edge="1">
